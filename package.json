@@ -1,0 +1,23 @@
+{
+  "name": "x.com-clone",
+  "version": "1.0.0",
+  "description": "just a json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josuegeek/json-server-x-clone.git"
+  },
+  "author": "josué-iswa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josuegeek/json-server-x-clone.git/issues"
+  },
+  "homepage": "https://github.com/Josuegeek/json-server-x-clone.gite#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
