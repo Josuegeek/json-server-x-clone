@@ -6,6 +6,7 @@
             "name": "Bradley Ortiz",
             "bio": "Tech enthusiast, coffee lover, and software engineer. Always exploring new ideas and trends in tech.",
             "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=1",
             "followersCount": 1200,
             "followingCount": 800,
             "certified": false
@@ -16,6 +17,7 @@
             "name": "John Doe",
             "bio": "Tech enthusiast and coffee lover. Tweets about tech, travel, and life.",
             "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=2",
             "followersCount": 250,
             "followingCount": 180,
             "certified": true
@@ -25,7 +27,8 @@
             "username": "jane_smith",
             "name": "Jane Smith",
             "bio": "Digital marketing specialist. Love to travel and take photos.",
-            "profilePicture": "https: //randomuser.me/api/portraits/women/2.jpg",
+            "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=3",
             "followersCount": 300,
             "followingCount": 150,
             "certified": true
@@ -36,6 +39,7 @@
             "name": "Mark Twain",
             "bio": "Writer and storyteller. Sharing thoughts on literature and life.",
             "profilePicture": "https://randomuser.me/api/portraits/men/4.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=4",
             "followersCount": 200,
             "followingCount": 100,
             "certified": false
@@ -46,6 +50,7 @@
             "name": "Sara Lee",
             "bio": "Food blogger and recipe creator. Sharing my culinary adventures!",
             "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=5",
             "followersCount": 450,
             "followingCount": 300,
             "certified": false
@@ -56,6 +61,7 @@
             "name": "Alice Wonderland",
             "bio": "Dreamer and artist. Exploring creativity in everyday life.",
             "profilePicture": "https://randomuser.me/api/portraits/women/5.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=6",
             "followersCount": 500,
             "followingCount": 400,
             "certified": true
@@ -66,6 +72,7 @@
             "name": "Charlie Brown",
             "bio": "Aspiring musician. Love to share my journey in music.",
             "profilePicture": "https://randomuser.me/api/portraits/men/6.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=7",
             "followersCount": 100,
             "followingCount": 75,
             "certified": true
@@ -76,6 +83,7 @@
             "name": "David Brown",
             "bio": "Gadget lover and tech reviewer. Sharing insights on the latest tech.",
             "profilePicture": "https://randomuser.me/api/portraits/men/7.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=8",
             "followersCount": 275,
             "followingCount": 125,
             "certified": false
@@ -86,6 +94,7 @@
             "name": "Emma Stone",
             "bio": "Nature lover and photographer. Capturing the beauty of the world.",
             "profilePicture": "https://randomuser.me/api/portraits/women/6.jpg",
+            "coverPicture": "https://picsum.photos/800/300?random=9",
             "followersCount": 600,
             "followingCount": 300,
             "certified": false
